@@ -2,7 +2,8 @@
 
 `JavaScript y CSS`
 
-
+## Vista
+![image](vista.gif)
 
 ### **offsetTop y offsetLeft**
 ![image](offset.jpg)
