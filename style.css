@@ -14,8 +14,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	margin: 0;
-}
-
+   }
 button:focus {
 	outline: none;
 }
@@ -31,7 +30,7 @@ button {
 	overflow: hidden;
 	margin: 10px 0;
 	position: relative;
-}
+   }
 
 button:focus {
 	outline: none;
@@ -46,7 +45,7 @@ button .circle {
 	border-radius: 50%;
 	transform: translate(-50%, -50%) scale(0);
 	animation: scale 0.5s ease-out;
-}
+   }
 
 @keyframes scale {
 	to {
